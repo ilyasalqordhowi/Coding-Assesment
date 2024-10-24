@@ -12,5 +12,5 @@ rg.GET("/get",controller.GetTask)
 rg.PUT("/put/:id",controller.PutTask)
 rg.GET("/get/:id",controller.GetIdTask)
 rg.DELETE("/delete/:id",controller.DeleteTask)
-
+rg.GET("/get/status",controller.GetTaskStatus)
 }

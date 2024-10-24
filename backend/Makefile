@@ -1,5 +1,5 @@
-host ?= localhost
-port ?= 5432
+host ?= 103.93.58.89
+port ?= 54323
 user ?= postgres
 pass ?= 1
 db ?= coding_assesment
