@@ -28,7 +28,7 @@ npm install
 ## 1. Clone this repository
 
 ```sh
-  git clone https://github.com/ilyasalqordhowi/fgh21-go-event-organizer.git
+  git clone https://github.com/ilyasalqordhowi/Coding-Assesment.git
   cd <backend>
 ```
 
